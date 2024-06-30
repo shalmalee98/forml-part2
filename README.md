@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# forml coding test (Part 2) - Frontend (React), Backend (Flask)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
